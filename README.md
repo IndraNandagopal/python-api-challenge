@@ -19,7 +19,7 @@ This assignment is to utilize Python requests, APIs, and JSON traversals to answ
 
 ### Adding a .gitignore File
 
-Added `api_keys.py` file containing the API key to the `.gitignore` file and committed the modifications `.gitignore`
+Added `api_keys.py` file containing the API key to the `.gitignore` file and committed the modifications to `.gitignore`
 
 
 ## Part 1: WeatherPy
@@ -28,10 +28,10 @@ The goal is to create a Python script to visualize the weather of 500+ cities of
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
-* Temperature (F) vs. Latitude - [Temperature (F) vs. Latitude](WeatherPy/output_data/LatVsTemp_scatter_plot.PNG)
-* Humidity (%) vs. Latitude - [Humidity (%) vs. Latitude](WeatherPy/output_data/LatVsHumidity_scatter_plot.PNG)
-* Cloudiness (%) vs. Latitude - [Cloudiness (%) vs. Latitude](WeatherPy/output_data/LatVsCloudiness_scatter_plot.PNG)
-* Wind Speed (mph) vs. Latitude - [Wind Speed (mph) vs. Latitude](WeatherPy/output_data/LatVsWindSpeed_scatter_plot.PNG)
+* Temperature (F) vs. Latitude - ![Temperature (F) vs. Latitude](WeatherPy/output_data/LatVsTemp_scatter_plot.PNG)
+* Humidity (%) vs. Latitude - ![Humidity (%) vs. Latitude](WeatherPy/output_data/LatVsHumidity_scatter_plot.PNG)
+* Cloudiness (%) vs. Latitude - ![Cloudiness (%) vs. Latitude](WeatherPy/output_data/LatVsCloudiness_scatter_plot.PNG)
+* Wind Speed (mph) vs. Latitude - ![Wind Speed (mph) vs. Latitude](WeatherPy/output_data/LatVsWindSpeed_scatter_plot.PNG)
 
 After each plot, added a sentence or two explaining what the code is analyzing.
 
@@ -67,7 +67,7 @@ To complete this part of the assignment, performed the following tasks:
 
 * Created a heat map that displayed the humidity for every city from Part 1. Here is the output:
 
-  ![heatmap](Images/heatmap.png)
+  ![heatmap](WeatherPy/Images/heatmap.png)
 
 * Narrowed down the DataFrame to find the ideal weather condition listed below:
 
@@ -79,6 +79,6 @@ To complete this part of the assignment, performed the following tasks:
 
 * Plotted the hotels on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**, as in the following image:
 
-  ![hotel map](Images/hotel_map.png)
+  ![hotel map](WeatherPy/Images/hotel_map.png)
 
 * For max intensity in the heatmap, tried setting it to the highest humidity found in the dataset.

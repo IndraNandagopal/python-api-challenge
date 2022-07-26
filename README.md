@@ -67,7 +67,7 @@ To complete this part of the assignment, performed the following tasks:
 
 * Created a heat map that displayed the humidity for every city from Part 1. Here is the output:
 
-  ![heatmap](WeatherPy/Images/heatmap.png)
+  ![heatmap](Images/heatmap.png)
 
 * Narrowed down the DataFrame to find the ideal weather condition listed below:
 
@@ -79,6 +79,6 @@ To complete this part of the assignment, performed the following tasks:
 
 * Plotted the hotels on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**, as in the following image:
 
-  ![hotel map](WeatherPy/Images/hotel_map.png)
+  ![hotel map](Images/hotel_map.png)
 
 * For max intensity in the heatmap, tried setting it to the highest humidity found in the dataset.

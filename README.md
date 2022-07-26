@@ -28,31 +28,31 @@ The goal is to create a Python script to visualize the weather of 500+ cities of
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
-* Temperature (F) vs. Latitude - ![Temperature (F) vs. Latitude](WeatherPy/output_data/LatVsTemp_scatter_plot.PNG)
-* Humidity (%) vs. Latitude - ![Humidity (%) vs. Latitude](WeatherPy/output_data/LatVsHumidity_scatter_plot.PNG)
-* Cloudiness (%) vs. Latitude - ![Cloudiness (%) vs. Latitude](WeatherPy/output_data/LatVsCloudiness_scatter_plot.PNG)
-* Wind Speed (mph) vs. Latitude - ![Wind Speed (mph) vs. Latitude](WeatherPy/output_data/LatVsWindSpeed_scatter_plot.PNG)
+* Temperature (F) vs. Latitude - ![Temperature (F) vs. Latitude](WeatherPy/output_data/LatVsTemp_scatter_plot.png)
+* Humidity (%) vs. Latitude - ![Humidity (%) vs. Latitude](WeatherPy/output_data/LatVsHumidity_scatter_plot.png)
+* Cloudiness (%) vs. Latitude - ![Cloudiness (%) vs. Latitude](WeatherPy/output_data/LatVsCloudiness_scatter_plot.png)
+* Wind Speed (mph) vs. Latitude - ![Wind Speed (mph) vs. Latitude](WeatherPy/output_data/LatVsWindSpeed_scatter_plot.png)
 
 After each plot, added a sentence or two explaining what the code is analyzing.
 
 The second requirement is to compute the linear regression for each relationship. This time, separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
-  - [Northern Hemisphere - Regression Plot](WeatherPy/output_data/North_LatVsMaxTemp_regression_plot.PNG)
+  - [Northern Hemisphere - Regression Plot](WeatherPy/output_data/North_LatVsMaxTemp_regression_plot.png)
 * Southern Hemisphere - Temperature (F) vs. Latitude
-  - [Southern Hemisphere - Regression Plot](WeatherPy/output_data/South_LatVsMaxTemp_regression_plot.PNG)
+  - [Southern Hemisphere - Regression Plot](WeatherPy/output_data/South_LatVsMaxTemp_regression_plot.png)
 * Northern Hemisphere - Humidity (%) vs. Latitude
-  - [Northern Hemisphere - Regression Plot](WeatherPy/output_data/North_LatVsHumidity_regression_plot.PNG)
+  - [Northern Hemisphere - Regression Plot](WeatherPy/output_data/North_LatVsHumidity_regression_plot.png)
 * Southern Hemisphere - Humidity (%) vs. Latitude
-  - [Southern Hemisphere - Regression Plot](WeatherPy/output_data/South_LatVsHumidity_regression_plot.PNG)
+  - [Southern Hemisphere - Regression Plot](WeatherPy/output_data/South_LatVsHumidity_regression_plot.png)
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
-  - [Northern Hemisphere - Regression Plot](WeatherPy/output_data/North_LatVsCloudiness_regression_plot.PNG)
+  - [Northern Hemisphere - Regression Plot](WeatherPy/output_data/North_LatVsCloudiness_regression_plot.png)
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
-  - [Southern Hemisphere - Regression Plot](WeatherPy/output_data/South_LatVsCloudiness_regression_plot.PNG)
+  - [Southern Hemisphere - Regression Plot](WeatherPy/output_data/South_LatVsCloudiness_regression_plot.png)
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
-  - [Northern Hemisphere - Regression Plot](WeatherPy/output_data/North_LatVsWindSpeed_regression_plot.PNG)
+  - [Northern Hemisphere - Regression Plot](WeatherPy/output_data/North_LatVsWindSpeed_regression_plot.png)
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
-  - [Southern Hemisphere - Regression Plot](WeatherPy/output_data/South_LatVsWindSpeed_regression_plot.PNG)
+  - [Southern Hemisphere - Regression Plot](WeatherPy/output_data/South_LatVsWindSpeed_regression_plot.png)
 
 After each pair of plots, explained what the linear regression is modeling.
 

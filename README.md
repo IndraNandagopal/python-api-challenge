@@ -64,7 +64,7 @@ The second requirement is to compute the linear regression for each relationship
 
 After each pair of plots, explained what the linear regression is modeling.
 
-Defined a 'function' that created these charts based on different parameters. 
+Defined a `function` that created these charts based on different parameters. 
 
 
 ### Part 2: VacationPy

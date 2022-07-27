@@ -30,16 +30,16 @@ The first requirement is to create a series of scatter plots to showcase the fol
 
 * Temperature (F) vs. Latitude
 
-![Temperature (F) vs. Latitude](WeatherPy/output_data/LatVsTemp_scatter_plot.png)
+![Latitude Vs. Max. Temperature](WeatherPy/output_data/LatVsTemp_scatter_plot.png)
 * Humidity (%) vs. Latitude
 
-![Humidity (%) vs. Latitude](WeatherPy/output_data/LatVsHumidity_scatter_plot.png)
+![Latitude Vs. Humidity (%)](WeatherPy/output_data/LatVsHumidity_scatter_plot.png)
 * Cloudiness (%) vs. Latitude
 
-![Cloudiness (%) vs. Latitude](WeatherPy/output_data/LatVsCloudiness_scatter_plot.png)
-* Wind Speed (mph) vs. Latitude
+![Latitude Vs. Cloudiness (%)](WeatherPy/output_data/LatVsCloudiness_scatter_plot.png)
+* Latitude Vs. Wind Speed (mph)
 
-![Wind Speed (mph) vs. Latitude](WeatherPy/output_data/LatVsWindSpeed_scatter_plot.png)
+![Latitude Vs. Wind Speed (mph)](WeatherPy/output_data/LatVsWindSpeed_scatter_plot.png)
 
 After each plot, added a sentence or two explaining what the code is analyzing.
 

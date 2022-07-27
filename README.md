@@ -28,13 +28,13 @@ The goal is to create a Python script to visualize the weather of 500+ cities of
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
-* Temperature (F) vs. Latitude
+* Latitude Vs. Max. Temperature
 
 ![Latitude Vs. Max. Temperature](WeatherPy/output_data/LatVsTemp_scatter_plot.png)
-* Humidity (%) vs. Latitude
+* Latitude Vs. Humidity (%)
 
 ![Latitude Vs. Humidity (%)](WeatherPy/output_data/LatVsHumidity_scatter_plot.png)
-* Cloudiness (%) vs. Latitude
+* Latitude Vs. Cloudiness (%) 
 
 ![Latitude Vs. Cloudiness (%)](WeatherPy/output_data/LatVsCloudiness_scatter_plot.png)
 * Latitude Vs. Wind Speed (mph)

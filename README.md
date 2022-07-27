@@ -2,7 +2,7 @@
 
 ## Background
 
-This assignment is to utilize Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+The goal of this assignment is to utilize Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 ### Initial Tasks performed
 
@@ -28,10 +28,18 @@ The goal is to create a Python script to visualize the weather of 500+ cities of
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
-* Temperature (F) vs. Latitude - ![Temperature (F) vs. Latitude](WeatherPy/output_data/LatVsTemp_scatter_plot.png)
-* Humidity (%) vs. Latitude - ![Humidity (%) vs. Latitude](WeatherPy/output_data/LatVsHumidity_scatter_plot.png)
-* Cloudiness (%) vs. Latitude - ![Cloudiness (%) vs. Latitude](WeatherPy/output_data/LatVsCloudiness_scatter_plot.png)
-* Wind Speed (mph) vs. Latitude - ![Wind Speed (mph) vs. Latitude](WeatherPy/output_data/LatVsWindSpeed_scatter_plot.png)
+* Temperature (F) vs. Latitude
+
+![Temperature (F) vs. Latitude](WeatherPy/output_data/LatVsTemp_scatter_plot.png)
+* Humidity (%) vs. Latitude
+
+![Humidity (%) vs. Latitude](WeatherPy/output_data/LatVsHumidity_scatter_plot.png)
+* Cloudiness (%) vs. Latitude
+
+![Cloudiness (%) vs. Latitude](WeatherPy/output_data/LatVsCloudiness_scatter_plot.png)
+* Wind Speed (mph) vs. Latitude
+
+![Wind Speed (mph) vs. Latitude](WeatherPy/output_data/LatVsWindSpeed_scatter_plot.png)
 
 After each plot, added a sentence or two explaining what the code is analyzing.
 
